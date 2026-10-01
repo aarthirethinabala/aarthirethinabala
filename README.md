@@ -21,7 +21,7 @@ Designed an Arduino Uno-compatible board from schematic through PCB layout, rout
 ### [UART Communication System](UART-Communication-System-Verilog)
 Designed and simulated a UART communication system using Verilog/SystemVerilog, including transmitter, receiver, baud-rate generation, and testbench verification.
 
-### [Vehicle Exhaust & Air Pollution Monitoring PCB](Air-Pollution-Monitoring-System)
+### [Vehicle Exhaust & Air Pollution Monitoring PCB](https://github.com/aarthirethinabala/Air-Pollution-Monitoring-System)
 Designed a PCB interface for an Arduino-based monitoring system using multiple gas sensors, DHT22, OLED display, LEDs, and buzzer.
 
 ## Tools and Technologies
