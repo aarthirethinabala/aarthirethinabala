@@ -12,13 +12,13 @@ I am an Electronics and Communication Engineering student interested in embedded
 - C/Python
 
 ## Projects
-### [LoRa Off-Grid Communication System](LoRa-Off-Grid-Communication-System)
+### [LoRa Off-Grid Communication System](https://github.com/aarthirethinabala/LoRa-Off-Grid-Communication-System)
 An ongoing wireless communication project using ESP32 and LoRa modules for communication without conventional network infrastructure.
 
-### [Arduino Uno-Compatible PCB](Arduino-Uno-Compatible-PCB)
+### [Arduino Uno-Compatible PCB](https://github.com/aarthirethinabala/Arduino-Uno-Compatible-PCB)
 Designed an Arduino Uno-compatible board from schematic through PCB layout, routing and DRC verification using KiCad.
 
-### [UART Communication System](UART-Communication-System-Verilog)
+### [UART Communication System](https://github.com/aarthirethinabala/UART-Communication-System-Verilog)
 Designed and simulated a UART communication system using Verilog/SystemVerilog, including transmitter, receiver, baud-rate generation, and testbench verification.
 
 ### [Vehicle Exhaust & Air Pollution Monitoring PCB](https://github.com/aarthirethinabala/Air-Pollution-Monitoring-System)
