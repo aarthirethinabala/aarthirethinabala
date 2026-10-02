@@ -24,6 +24,9 @@ Designed and simulated a UART communication system using Verilog/SystemVerilog, 
 ### [Vehicle Exhaust & Air Pollution Monitoring PCB](https://github.com/aarthirethinabala/Air-Pollution-Monitoring-System)
 Designed a PCB interface for an Arduino-based monitoring system using multiple gas sensors, DHT22, OLED display, LEDs, and buzzer.
 
+### [ESP32 Development Board PCB](https://github.com/aarthirethinabala/ESP32-Dev-Board)
+Custom ESP32 development board designed and routed in KiCad, featuring USB-UART communication, power regulation, boot/reset controls, and GPIO headers.
+
 ## Tools and Technologies
 'KiCad' 'Arduino' 'ESP32' 'LoRa' 'Verilog' 'SystemVerilog' 'C' 'Python'
 
